@@ -1,3 +1,11 @@
+Привіт, я Андрій 👋
+👩‍💻 Резюме
+🔭 Працюю як Linux System administrator
+🌱 Вивчаю DevOps
+🧰 Навички: HTML, CSS, JavaScript, Git, GitHub
+📫 Контакти: andrey_svirid@yahoo.com
+
+
 ## Hi there 👋
 
 <!--
