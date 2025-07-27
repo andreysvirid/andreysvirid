@@ -22,3 +22,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Привіт! 👋 Я Андрій
+
+## 💼 Про мене
+- 🔧 Розробник: Python, JavaScript
+- 🎓 Освіта: КПІ, ІПСА
+- 📬 Email: andrii@example.com
+
+## 🔗 Посилання
+- [LinkedIn](https://linkedin.com/in/andrii)
+- [Портфоліо](https://myportfolio.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrii-test&show_icons=true)
