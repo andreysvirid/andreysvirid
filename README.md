@@ -1,8 +1,13 @@
 Привіт, я Андрій 👋
+
 👩‍💻 Резюме (CV UNDER CONSTRUCTION)
+
 🔭 Працюю як Linux System administrator
+
 🌱 Вивчаю DevOps
+
 🧰 Навички: OS: Linux; VM: VMware, ProxMox; DB: PostgreSQL, MySQL;  Programming: PHP, HTML, CSS, JavaScript; WEB: Apache, Nginx, Bind; Devops: Git, GitHub
+
 📫 Контакти: andrey_svirid@yahoo.com
 
 
