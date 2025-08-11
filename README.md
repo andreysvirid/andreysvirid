@@ -1,8 +1,8 @@
 Привіт, я Андрій 👋
-👩‍💻 Резюме
+👩‍💻 Резюме (CV UNDER CONSTRUCTION)
 🔭 Працюю як Linux System administrator
 🌱 Вивчаю DevOps
-🧰 Навички: HTML, CSS, JavaScript, Git, GitHub
+🧰 Навички: OS: Linux; VM: VMware, ProxMox; DB: PostgreSQL, MySQL;  Programming: PHP, HTML, CSS, JavaScript; WEB: Apache, Nginx, Bind; Devops: Git, GitHub
 📫 Контакти: andrey_svirid@yahoo.com
 
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 # Привіт! 👋 Я Андрій
 
 ## 💼 Про мене
-- 🔧 Розробник: Python, JavaScript
-- 🎓 Освіта: КПІ, ІПСА
-- 📬 Email: andrii@example.com
+- 🔧 Системний адміністратор Linux
+- 🎓 Освіта: КПІ
+- 📬 Email: andrey_svirid@eyahoo.com
 
 ## 🔗 Посилання
 - [LinkedIn](https://linkedin.com/in/andrii)
