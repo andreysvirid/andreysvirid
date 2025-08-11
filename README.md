@@ -1,6 +1,6 @@
 Привіт, я Андрій 👋
 
-👩‍💻 Резюме (CV UNDER CONSTRUCTION)
+👩‍💻 Резюме (UNDER CONSTRUCTION)
 
 🔭 Працюю як Linux System administrator
 
